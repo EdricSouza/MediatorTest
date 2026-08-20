@@ -22,9 +22,9 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.MapGet("/Calcular2Numeros", async (IMediator mediator) =>
+app.MapGet("/Calcular2Numeros/{numero1}/numero/{numero2}", async (IMediator mediator, int numero1, int numero2) =>
 {
-    var query = new CalcularNumeroQuery(10, 20);
+    var query = new CalcularNumeroQuery(numero1, numero2);
     var resultado = await mediator.Send(query);
     return resultado;
 })

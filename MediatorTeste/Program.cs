@@ -22,13 +22,13 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.MapGet("/Teste", async (IMediator mediator) =>
+app.MapGet("/Calcular2Numeros", async (IMediator mediator) =>
 {
     var query = new CalcularNumeroQuery(10, 20);
     var resultado = await mediator.Send(query);
     return resultado;
 })
-.WithName("GetWeatherForecast");
+.WithName("Calcular2Numeros");
 
 if (app.Environment.IsDevelopment())
 {

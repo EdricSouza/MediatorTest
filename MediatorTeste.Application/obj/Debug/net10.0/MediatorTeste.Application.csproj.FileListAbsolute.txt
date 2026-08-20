@@ -1,0 +1,12 @@
+/home/edric/Documentos/dotnet/MediatorTeste.Application/bin/Debug/net10.0/MediatorTeste.Application.deps.json
+/home/edric/Documentos/dotnet/MediatorTeste.Application/bin/Debug/net10.0/MediatorTeste.Application.dll
+/home/edric/Documentos/dotnet/MediatorTeste.Application/bin/Debug/net10.0/MediatorTeste.Application.pdb
+/home/edric/Documentos/dotnet/MediatorTeste.Application/obj/Debug/net10.0/MediatorTeste.Application.csproj.AssemblyReference.cache
+/home/edric/Documentos/dotnet/MediatorTeste.Application/obj/Debug/net10.0/MediatorTeste.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/edric/Documentos/dotnet/MediatorTeste.Application/obj/Debug/net10.0/MediatorTeste.Application.AssemblyInfoInputs.cache
+/home/edric/Documentos/dotnet/MediatorTeste.Application/obj/Debug/net10.0/MediatorTeste.Application.AssemblyInfo.cs
+/home/edric/Documentos/dotnet/MediatorTeste.Application/obj/Debug/net10.0/MediatorTeste.Application.csproj.CoreCompileInputs.cache
+/home/edric/Documentos/dotnet/MediatorTeste.Application/obj/Debug/net10.0/MediatorTeste.Application.dll
+/home/edric/Documentos/dotnet/MediatorTeste.Application/obj/Debug/net10.0/refint/MediatorTeste.Application.dll
+/home/edric/Documentos/dotnet/MediatorTeste.Application/obj/Debug/net10.0/MediatorTeste.Application.pdb
+/home/edric/Documentos/dotnet/MediatorTeste.Application/obj/Debug/net10.0/ref/MediatorTeste.Application.dll

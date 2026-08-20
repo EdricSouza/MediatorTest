@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "CNtyaJ1nd80=",
+  "success": true,
+  "projectFilePath": "/home/edric/Documentos/dotnet/MediatorTeste/MediatorTeste.csproj",
+  "expectedPackageFiles": [
+    "/home/edric/.nuget/packages/mediatr/14.2.0/mediatr.14.2.0.nupkg.sha512",
+    "/home/edric/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/edric/.nuget/packages/microsoft.aspnetcore.openapi/10.0.10/microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512",
+    "/home/edric/.nuget/packages/microsoft.extensions.dependencyinjection/11.0.0-preview.7.26381.103/microsoft.extensions.dependencyinjection.11.0.0-preview.7.26381.103.nupkg.sha512",
+    "/home/edric/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/11.0.0-preview.7.26381.103/microsoft.extensions.dependencyinjection.abstractions.11.0.0-preview.7.26381.103.nupkg.sha512",
+    "/home/edric/.nuget/packages/microsoft.identitymodel.abstractions/8.14.0/microsoft.identitymodel.abstractions.8.14.0.nupkg.sha512",
+    "/home/edric/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.14.0/microsoft.identitymodel.jsonwebtokens.8.14.0.nupkg.sha512",
+    "/home/edric/.nuget/packages/microsoft.identitymodel.logging/8.14.0/microsoft.identitymodel.logging.8.14.0.nupkg.sha512",
+    "/home/edric/.nuget/packages/microsoft.identitymodel.tokens/8.14.0/microsoft.identitymodel.tokens.8.14.0.nupkg.sha512",
+    "/home/edric/.nuget/packages/microsoft.openapi/2.7.5/microsoft.openapi.2.7.5.nupkg.sha512",
+    "/home/edric/.nuget/packages/swashbuckle.aspnetcore.swagger/10.2.3/swashbuckle.aspnetcore.swagger.10.2.3.nupkg.sha512",
+    "/home/edric/.nuget/packages/swashbuckle.aspnetcore.swaggergen/10.2.3/swashbuckle.aspnetcore.swaggergen.10.2.3.nupkg.sha512",
+    "/home/edric/.nuget/packages/swashbuckle.aspnetcore.swaggerui/10.2.3/swashbuckle.aspnetcore.swaggerui.10.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

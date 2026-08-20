@@ -10,3 +10,4 @@
 /home/edric/Documentos/dotnet/MediatorTeste.Application/obj/Debug/net10.0/refint/MediatorTeste.Application.dll
 /home/edric/Documentos/dotnet/MediatorTeste.Application/obj/Debug/net10.0/MediatorTeste.Application.pdb
 /home/edric/Documentos/dotnet/MediatorTeste.Application/obj/Debug/net10.0/ref/MediatorTeste.Application.dll
+/home/edric/Documentos/dotnet/MediatorTeste.Application/obj/Debug/net10.0/MediatorTeste.Application.sourcelink.json
